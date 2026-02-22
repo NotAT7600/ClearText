@@ -105,4 +105,15 @@ Deep-link integration between MeDo and ClearText enables automated cognitive per
 ---
 
 ## Repository Structure
+ClearText-Code/
+Profile-Generator/
+README.md
+
+
+---
+
+## Team
+
+Built for Grizzly Hacks 2025.
+
 
